@@ -3,13 +3,13 @@
 
 <!-- ✨ Header Banner -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Node+Community+⚡;Innovation+Through+Collaboration;Built+by+Coders+for+Coders" alt="Node Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Node+Community;Innovation+Through+Collaboration;Built+by+Coders+for+Coders" alt="Node Typing Animation" />
 </h1>
 
 ---
 
 #### ⚙️ Minimal. Powerful. Evolving.
-**Node** is a developer collective founded by [Soham Mishra](https://github.com/sohmxdd) & [Snehit Singh](https://github.com/snehitcodes).  
+**Node** is a developer collective founded by [Soham Mishra](https://github.com/sohmxdd) & [Snehit Singh](https://github.com/snehit20).  
 We’re building an ecosystem for **AI/ML**, **Software**, and **Robotics**, driven by pure collaboration and creativity.
 
 ---
@@ -55,7 +55,7 @@ We’re building an ecosystem for **AI/ML**, **Software**, and **Robotics**, dri
 > *(Auto-links once repos are public — until then, they’re listed below for showcase.)*
 
 🪐 [**LuminaScope Lite**](#) — AI + Astronomy visualizer (mini version)  
-🎧 [**Quoteify**](#) — Mood-based music recommender powered by sentiment analysis  
+🎧 [**Quoteify**](#) — Mood-based music recommender   
 
 ---
 
@@ -70,10 +70,10 @@ We’re building an ecosystem for **AI/ML**, **Software**, and **Robotics**, dri
 
 ### 🌐 Connect With Node
 > 💬 [GitHub Discussions](https://github.com/node-community)  
-> ✉️ **nodecommunity@gmail.com**  
+> ✉️ **nodedotin@gmail.com**  
 
 <br>
 
-✨ *Evolving with every commit — powered by collaboration.*
+ *Evolving with every commit — powered by collaboration.*
 
 </div>
