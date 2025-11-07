@@ -42,10 +42,10 @@ We’re building an ecosystem for **AI/ML**, **Software**, and **Robotics**, dri
 
 ### 📈 Node Stats
 <div align="center">
-  
-<img src="https://img.shields.io/github/followers/node-community?label=Followers&style=flat-square&color=00FFFF">
-<img src="https://img.shields.io/github/stars/node-community?label=Stars&style=flat-square&color=00FFFF">
-<img src="https://komarev.com/ghpvc/?username=node-community&label=Profile+Views&color=00FFFF&style=flat-square" alt="views"/>
+
+<img src="https://img.shields.io/badge/Followers-Coming%20Soon-0D1117?style=flat-square&logo=github&logoColor=00FFFF">
+<img src="https://img.shields.io/badge/Stars-Loading...-0D1117?style=flat-square&logo=starship&logoColor=00FFFF">
+<img src="https://img.shields.io/badge/Profile%20Views-Live-00FFFF?style=flat-square&logo=github&logoColor=0D1117">
 
 </div>
 
