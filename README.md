@@ -1,23 +1,23 @@
-<!-- Node - Next Gen Minimal Dynamic README -->
+<!-- Node - v2.0 Polished Minimal README -->
 <div align="center">
 
-<!-- Animated Gradient Border -->
-<div style="border: 2px solid transparent; border-radius: 20px; background-image: linear-gradient(#0D1117, #0D1117), linear-gradient(90deg, #00FFFF, #7C3AED, #00FFFF); background-origin: border-box; background-clip: content-box, border-box; padding: 25px;">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Node+Community+⚡;Innovation+Through+Collaboration;Built+by+Coders+for+Coders" alt="Typing Animation" />
+<!-- ✨ Header Banner -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Node+Community+⚡;Innovation+Through+Collaboration;Built+by+Coders+for+Coders" alt="Node Typing Animation" />
+</h1>
 
 ---
 
 #### ⚙️ Minimal. Powerful. Evolving.
 **Node** is a developer collective founded by [Soham Mishra](https://github.com/sohmxdd) & [Snehit Singh](https://github.com/snehitcodes).  
-We create, innovate, and collaborate — exploring **AI/ML**, **Robotics**, and **Software** with purpose.
+We’re building an ecosystem for **AI/ML**, **Software**, and **Robotics**, driven by pure collaboration and creativity.
 
 ---
 
 ### 🧠 What We Do
 > 💡 Build open-source tools  
-> 🧩 Host hackathons & collabs  
-> ⚡ Empower creators to turn ideas into reality
+> 🧩 Host hackathons & community collabs  
+> ⚡ Turn ideas into real prototypes
 
 ---
 
@@ -34,13 +34,13 @@ We create, innovate, and collaborate — exploring **AI/ML**, **Robotics**, and 
 
 ### 📡 Now Building
 > 🧩 **Latest Project:**  
-> <img src="https://img.shields.io/github/last-commit/node-community/LuminaScope-Lite?label=LuminaScope%20Lite&color=00FFFF&style=flat-square&logo=github" alt="Latest Commit">  
+> 🛰️ **LuminaScope Lite** — Mini AI-powered sky visualizer *(public repo coming soon)*  
 
-*(Auto-updates with every new commit!)*
+*(This section auto-updates once your repos go public.)*
 
 ---
 
-### 📈 Node Metrics
+### 📈 Node Stats
 <div align="center">
   
 <img src="https://img.shields.io/github/followers/node-community?label=Followers&style=flat-square&color=00FFFF">
@@ -52,19 +52,17 @@ We create, innovate, and collaborate — exploring **AI/ML**, **Robotics**, and 
 ---
 
 ### 🚀 Featured Projects
-<div align="center">
+> *(Auto-links once repos are public — until then, they’re listed below for showcase.)*
 
-[![LuminaScope Lite](https://github-readme-stats.vercel.app/api/pin/?username=node-community&repo=LuminaScope-Lite&theme=transparent&hide_border=true)](https://github.com/node-community/LuminaScope-Lite)
-[![Quoteify](https://github-readme-stats.vercel.app/api/pin/?username=node-community&repo=Quoteify&theme=transparent&hide_border=true)](https://github.com/node-community/Quoteify)
-
-</div>
+🪐 [**LuminaScope Lite**](#) — AI + Astronomy visualizer (mini version)  
+🎧 [**Quoteify**](#) — Mood-based music recommender powered by sentiment analysis  
 
 ---
 
 ### 🧩 Contributors
 <div align="center">
 
-[![](https://contrib.rocks/image?repo=node-community/LuminaScope-Lite)](https://github.com/node-community)
+[![](https://contrib.rocks/image?repo=sohmxdd/LuminaScope-Lite)](https://github.com/sohmxdd)
 
 </div>
 
@@ -78,5 +76,4 @@ We create, innovate, and collaborate — exploring **AI/ML**, **Robotics**, and 
 
 ✨ *Evolving with every commit — powered by collaboration.*
 
-</div>
 </div>
