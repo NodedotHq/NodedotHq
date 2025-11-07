@@ -68,8 +68,7 @@ We’re building an ecosystem for **AI/ML**, **Software**, and **Robotics**, dri
 
 ---
 
-### 🌐 Connect With Node
-> 💬 [GitHub Discussions](https://github.com/node-community)  
+### 🌐 Connect With Node 
 > ✉️ **nodedotin@gmail.com**  
 
 <br>
